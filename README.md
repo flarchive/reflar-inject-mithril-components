@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of reflar/inject-mithril-components.** Not for installation: use [Packagist](https://packagist.org/packages/reflar/inject-mithril-components) or the [upstream repository](https://github.com/ReFlar/inject-mithril-components).
 
-**0** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/reflar-inject-mithril-components/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
+**2** versions archived · Latest: [`0.1.1`](https://github.com/flarchive/reflar-inject-mithril-components/tree/archive/v0.1.1) · License: `MIT` · Flarum: `^0.1.0-beta.8`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2019-02-17 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-inject-mithril-components/tree/archive/v0.1.0) |
+| `0.1.1` | 2019-02-19 | `^0.1.0-beta.8` | [Browse](https://github.com/flarchive/reflar-inject-mithril-components/tree/archive/v0.1.1) |
 
 Catalog entry: [packages/reflar-inject-mithril-components.json](https://github.com/flarchive/archive-index/blob/main/packages/reflar-inject-mithril-components.json)
 
